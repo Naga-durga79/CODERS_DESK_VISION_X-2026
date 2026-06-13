@@ -1,24 +1,17 @@
-# Welcome to your Lovable project
+# Welcome to your Rural PHC project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/8cb3c65d-6ec3-4234-9573-6f270dce603a
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/8cb3c65d-6ec3-4234-9573-6f270dce603a) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -60,9 +53,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/8cb3c65d-6ec3-4234-9573-6f270dce603a) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
